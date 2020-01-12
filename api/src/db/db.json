@@ -27,6 +27,13 @@
       "type": "DOG",
       "name": "ollie",
       "createdAt": "6274"
+    },
+    {
+      "id": "Su96K6k1Sg4l2kV7BeQ7G",
+      "createdAt": 1578842561951,
+      "name": "mutated dog",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
     }
   ]
 }
