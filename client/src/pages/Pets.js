@@ -47,7 +47,7 @@ export default function Pets () {
     });
   }
 
-  if (loading || newPet.loading) {
+  if (loading) {
     return <Loader />;
   }
 
