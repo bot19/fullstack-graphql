@@ -41,6 +41,20 @@
       "name": "refreshing",
       "type": "DOG",
       "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "U3z5MngdGt1sGXKwzJ7hA",
+      "createdAt": 1578847321232,
+      "name": "optimistic",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "QR1q-L1j9CSv_JmiUVXTj",
+      "createdAt": 1578847344996,
+      "name": "optimistic junior",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
     }
   ]
 }
